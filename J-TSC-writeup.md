@@ -29,12 +29,10 @@ signs data set:
 #### 2. Include an exploratory visualization of the dataset.
 
 * Here is an exploratory visualization of the data set. 
-[image1]: ./result/01-SampleDataSet.png "Visualization"
 ![Alt text](/result/01-SampleDataSet.png "Visualization")
 
-* It is a bar chart showing how 
-
-[image2]: ./result/02-BarChart.png "Bar Chart"
+* It is a bar chart for the samples number of 43 classes
+![Alt text](/result/02-BarChart.png "Bar Chart")
 
 ### Design and Test a Model Architecture
 
@@ -42,8 +40,7 @@ signs data set:
 
 I sharp the image before training
 The difference between the original image and the sharped image is shown as below:
-
-[image3]: ./result/03-ProcessedImage.png "PreProcessed Image"
+![Alt text](/result/03-ProcessedImage.png "PreProcessed Image")
 
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
@@ -83,14 +80,14 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-[image3]: ./result/04-NetPic.png "Six German traffic signs found on the web"
+![Alt text](/result/04-NetPic.png "Six German traffic signs found on the web")
 
-![alt text][./net-pic/CurveRoad.jpeg] 
-![alt text][./net-pic/NoEntry.jpeg] 
-![alt text][./net-pic/SpeedLimit-50.jpeg] 
-![alt text][./net-pic/SpeedLimit-100.jpeg] 
-![alt text][./net-pic/Stop.jpeg]
-![alt text][./net-pic/TurnRight.jpeg]
+![alt text][/net-pic/CurveRoad.jpeg] 
+![alt text][/net-pic/NoEntry.jpeg] 
+![alt text][/net-pic/SpeedLimit-50.jpeg] 
+![alt text][/net-pic/SpeedLimit-100.jpeg] 
+![alt text][/net-pic/Stop.jpeg]
+![alt text][/net-pic/TurnRight.jpeg]
 
 
 
@@ -98,7 +95,7 @@ Here are five German traffic signs that I found on the web:
 
 Here are the results of the prediction:
 
-[image4]: ./result/05-PredictResult.png "Prediction result for traffic signs found on the web"
+![Alt text](/result/05-PredictResult.png "Prediction result for traffic signs found on the web")
 
 No Entry and Turn riight ahead are correct predicted.
 The Accuracy rate is only 2/6 (~33%)
@@ -106,7 +103,7 @@ Ihe accuracy might be improved by cropping the area of traffic sign before doing
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
-[image5]: ./result/06-Top5.png "Top 5 probabilities for each image"
+![Alt text](/result/06-Top5.png "Top 5 probabilities for each image")
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
