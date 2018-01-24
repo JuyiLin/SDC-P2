@@ -82,14 +82,6 @@ Here are five German traffic signs that I found on the web:
 
 ![Alt text](/result/04-NetPic.png "Six German traffic signs found on the web")
 
-![alt text][/net-pic/CurveRoad.jpeg] 
-![alt text][/net-pic/NoEntry.jpeg] 
-![alt text][/net-pic/SpeedLimit-50.jpeg] 
-![alt text][/net-pic/SpeedLimit-100.jpeg] 
-![alt text][/net-pic/Stop.jpeg]
-![alt text][/net-pic/TurnRight.jpeg]
-
-
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
