@@ -8,10 +8,10 @@
 ### Writeup / README
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-Code:   J-TSC02.ipynb
-Html:   J-TSC02.html
-Report: J-TSC-writeup.md
-Result: ./result
+* Code:   J-TSC02.ipynb
+* Html:   J-TSC02.html
+* Report: J-TSC-writeup.md
+* Result: ./result
 
 ### Data Set Summary & Exploration
 
@@ -28,10 +28,11 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. 
+* Here is an exploratory visualization of the data set. 
 [image1]: ./result/01-SampleDataSet.png "Visualization"
+![Alt text](/result/01-SampleDataSet.png "Visualization")
 
-It is a bar chart showing how 
+* It is a bar chart showing how 
 
 [image2]: ./result/02-BarChart.png "Bar Chart"
 
